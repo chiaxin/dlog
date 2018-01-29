@@ -4,6 +4,19 @@
 
 [Unreleased]
 
+## 2018-01-29
+
+### MayaAPI101
+
+修正了一些 dotnet 的設定文件
+好像很少人用 .NET 寫 Maya API 我覺得很有趣 所以有時間想研究一下
+
+### UMPLint
+
+將 UMPLint 更名為 `umpire` 並且第一次 Push 上了 Github
+
+---
+
 ## 2018-01-28
 
 重新整理自己的 Open Source 專案，</br>
