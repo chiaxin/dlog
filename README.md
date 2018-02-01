@@ -4,6 +4,14 @@
 
 [Unreleased]
 
+## 2018-02-01
+
+### MayaAPI101
+
+部分文件修飾了一下</br>
+新增 Maya_API_naming_conventions.md 參考了 Maya Documents</br>
+並加上一些我自己習慣用的命名法
+
 ## 2018-01-29
 
 ### MayaAPI101
