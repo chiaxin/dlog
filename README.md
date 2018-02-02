@@ -4,13 +4,20 @@
 
 [Unreleased]
 
+## 2018-02-02
+
+### MayaAPI101
+
+持續更新 MayaAPI101 的文件，</br>
+目前會分為三個部份 C++, .NET, Python。</br>
+
 ## 2018-02-01
 
 ### MayaAPI101
 
-部分文件修飾了一下</br>
-新增 Maya_API_naming_conventions.md 參考了 Maya Documents</br>
-並加上一些我自己習慣用的命名法
+部分文件修飾了一下，</br>
+新增 Maya_API_naming_conventions.md 參考了 Maya Documents，</br>
+並加上一些我自己習慣用的命名法。
 
 ## 2018-01-29
 
