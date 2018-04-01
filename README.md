@@ -4,6 +4,20 @@
 
 [Unreleased]
 
+## 2018-04-01
+
+### Division
+
+很久沒更新了，新的 branch : ver13 添加了一個新功能 maketx 。
+這功能可以幫我們在產生貼圖的同時產生 tx。
+再繼續測試一下，一切順利的話再合併回 master。
+
+## 2018-02-09
+
+### MayaAPI101
+
+更新 MayaAPI101 持續優化文件的格式, 並新增 snippet 存放一些有用的 code.
+
 ## 2018-02-02
 
 ### MayaAPI101
