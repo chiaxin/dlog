@@ -4,6 +4,16 @@
 
 [Unreleased]
 
+## 2018-06-05
+
+### Division
+
+更新到了 1.5.0，這個版本加上了一個新功能 - convert dds texture。  
+並且重構了一部份的 code。找時間 merge 回去。  
+這個功能需要 [Microsoft/DirectXTex](https://github.com/Microsoft/DirectXTex)。  
+但是我不希望他轉出來的副檔名是大寫 DDS，因此有修改後重新編譯過。  
+目前 Division 還尚未修正成 MAC 可以 Run 的版本。
+
 ## 2018-04-01
 
 ### Division
