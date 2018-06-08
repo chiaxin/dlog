@@ -4,6 +4,14 @@
 
 [Unreleased]
 
+## 2018-06-08
+
+## MayaAPI101
+
+新增了 Maya API with QT 的文件。  
+如何用 QMake 去產生 Visual Studio 所需要的 vcxproj。  
+如何在 Maya 裡使用 QML 格式。
+
 ## 2018-06-05
 
 ### Division
