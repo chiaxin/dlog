@@ -4,9 +4,22 @@
 
 [Unreleased]
 
+## 2018-08-15
+
+### shaderSpace
+
+目前發現因為 "mc.about(v=True)" 造成 int() 轉換上的 Error.  
+這個問題會使得 Maya 2016.5 不能運作。這個問題已經修正了。
+Arnold 5 將原本的 aiStandard 這個材質球廢棄掉了，目前是改用 aiStandardSurface。  
+因此 shaderSpace 也新增了 aiStandardSurface 材質球。
+
+### Division
+
+目前在使用 Mac OS 測試 Division 的運作，主要使用 Photoshop CS6。
+
 ## 2018-06-08
 
-## MayaAPI101
+### MayaAPI101
 
 新增了 Maya API with QT 的文件。  
 如何用 QMake 去產生 Visual Studio 所需要的 vcxproj。  
