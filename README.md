@@ -4,6 +4,14 @@
 
 [Unreleased]
 
+## 2019-01-13
+
+### LeafExtractor
+
+因為有從 Photoshop 中去擷取出所有底層的 Layer 之需求。  
+因此寫了一個簡單的 Script - LeafExtractor，它可以簡單地輸出所有底層的 Layer。  
+[Leaf Extractor](https://github.com/chiaxin/LeafExtractor)
+
 ## 2018-08-15
 
 ### shaderSpace
